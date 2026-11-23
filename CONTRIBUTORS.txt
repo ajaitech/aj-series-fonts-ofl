@@ -1,0 +1,3 @@
+# Official list of AJ Series Project contributors.
+Aravind Jayamohan <aravind.j.naidu@gmail.com> (Creator, Type Designer & Sole IP Owner)
+Aivibe Software Services Private Limited <aravind@aivibe.in> (Publishing & QA Engineering)

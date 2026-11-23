@@ -1,0 +1,13 @@
+sources:
+  - ajanushya/AJAnushya-Regular.ufoz
+  - ajanushya/AJAnushya-SemiBold.ufoz
+  - ajanushya/AJAnushya-ExtraBold.ufoz
+  - ajanushya/AJAnushya-Italic.ufoz
+  - ajanushya/AJAnushya-SemiBoldItalic.ufoz
+  - ajanushya/AJAnushya-ExtraBoldItalic.ufoz
+familyName: AJ Anushya
+buildVariable: false
+buildStatic: true
+buildOTF: true
+buildWebfont: true
+autohintTTF: true

@@ -1,0 +1,10 @@
+sources:
+  - ajsahasvi/AJSahasvi-Regular.ufoz
+  - ajsahasvi/AJSahasvi-SemiBold.ufoz
+  - ajsahasvi/AJSahasvi-ExtraBold.ufoz
+familyName: AJ Sahasvi
+buildVariable: false
+buildStatic: true
+buildOTF: true
+buildWebfont: true
+autohintTTF: true

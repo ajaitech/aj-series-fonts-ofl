@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  Microsoft Office Theme Font Scheme — AJ Series Enterprise Typefaces v2.1.0
+  Drop into:
+    Windows: %APPDATA%\Microsoft\Templates\Document Themes\Theme Fonts\AJ-Series.xml
+    macOS  : ~/Library/Group Containers/UBF8T346G9.Office/User Content/Themes/Theme Fonts/AJ-Series.xml
+  Automatically sets Word, PowerPoint & Excel Headers to AJ Sahasvi and Body to AJ Anushya across all scripts!
+-->
+<a:fontScheme xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" name="AJ Series Enterprise">
+  <a:majorFont>
+    <a:latin typeface="AJ Sahasvi" />
+    <a:ea typeface="AJ Sahasvi KR" />
+    <a:cs typeface="AJ Sahasvi" />
+    <a:font script="Arab" typeface="AJ Sahasvi" />
+    <a:font script="Deva" typeface="AJ Sahasvi" />
+    <a:font script="Taml" typeface="AJ Sahasvi" />
+    <a:font script="Telu" typeface="AJ Sahasvi" />
+    <a:font script="Beng" typeface="AJ Sahasvi" />
+    <a:font script="Jpan" typeface="AJ Sahasvi" />
+    <a:font script="Hang" typeface="AJ Sahasvi KR" />
+  </a:majorFont>
+  <a:minorFont>
+    <a:latin typeface="AJ Anushya" />
+    <a:ea typeface="AJ Anushya KR" />
+    <a:cs typeface="AJ Anushya" />
+    <a:font script="Arab" typeface="AJ Anushya" />
+    <a:font script="Deva" typeface="AJ Anushya" />
+    <a:font script="Taml" typeface="AJ Anushya" />
+    <a:font script="Telu" typeface="AJ Anushya" />
+    <a:font script="Beng" typeface="AJ Anushya" />
+    <a:font script="Jpan" typeface="AJ Anushya" />
+    <a:font script="Hang" typeface="AJ Anushya KR" />
+  </a:minorFont>
+</a:fontScheme>

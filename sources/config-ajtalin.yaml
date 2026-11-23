@@ -1,0 +1,13 @@
+sources:
+  - ajtalin/AJTalin-Regular.ufoz
+  - ajtalin/AJTalin-SemiBold.ufoz
+  - ajtalin/AJTalin-ExtraBold.ufoz
+  - ajtalin/AJTalin-Italic.ufoz
+  - ajtalin/AJTalin-SemiBoldItalic.ufoz
+  - ajtalin/AJTalin-ExtraBoldItalic.ufoz
+familyName: AJ Talin
+buildVariable: false
+buildStatic: true
+buildOTF: true
+buildWebfont: true
+autohintTTF: true

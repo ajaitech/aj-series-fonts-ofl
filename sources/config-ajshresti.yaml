@@ -1,0 +1,13 @@
+sources:
+  - ajshresti/AJShresti-Regular.ufoz
+  - ajshresti/AJShresti-SemiBold.ufoz
+  - ajshresti/AJShresti-ExtraBold.ufoz
+  - ajshresti/AJShresti-Italic.ufoz
+  - ajshresti/AJShresti-SemiBoldItalic.ufoz
+  - ajshresti/AJShresti-ExtraBoldItalic.ufoz
+familyName: AJ Shresti
+buildVariable: false
+buildStatic: true
+buildOTF: true
+buildWebfont: true
+autohintTTF: true
