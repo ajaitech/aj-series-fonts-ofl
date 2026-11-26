@@ -1,0 +1,9 @@
+Copyright 2026 Aravind Jayamohan, India (aravind.j.naidu@gmail.com)
+with Reserved Font Names "AJ Shresti", "AJ Sahasvi", "AJ Anushya", "AJ Talin", and "AJ Series".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+NOTE: This OFL 1.1 option applies ONLY if and when Aravind Jayamohan publishes this flat Core
+edition to Google Fonts. All 3D Press / 3D Lift COLR editions, Enterprise Installers, and
+Private Repository sources remain 100% Proprietary under ../../LICENSE.md.
+
+Full SIL OFL 1.1 text: https://openfontlicense.org/open-font-license-official-text/
