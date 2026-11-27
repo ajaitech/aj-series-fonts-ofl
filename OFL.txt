@@ -1,0 +1,6 @@
+Copyright 2026 Aravind Jayamohan, India
+with Reserved Font Names "AJ Shresti", "AJ Sahasvi", "AJ Anushya", "AJ Talin", "Aaahhh Fonts Vibe", and "AJ Series".
+
+Conditional OFL notice: the SIL Open Font License 1.1 applies only to a flat Core edition if and when the copyright holder publishes it through Google Fonts. It does not relicense the main AJ Series suite (3D-press color editions, installers, apps and sources), which remains under the Aivibe Open Ecosystem Font License: no modification and no standalone resale.
+
+Full SIL OFL 1.1 text: https://openfontlicense.org/open-font-license-official-text/
